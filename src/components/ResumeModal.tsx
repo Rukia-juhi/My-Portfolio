@@ -66,7 +66,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
             <div className="flex flex-col items-center justify-center h-full text-center p-6 space-y-4">
               <a
                 href={PERSONAL_INFO.resumePdfUrl}
-                download="Rukia_Juhi_S_Resume.pdf"
+                download="/My-Portfolio/Rukia_Juhi_S_Resume.pdf"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-500 text-white text-xs font-semibold"
               >
                 <Download className="w-4 h-4" />
@@ -81,7 +81,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
           <div className="flex items-center gap-2 w-full sm:w-auto">
             <a
               href={PERSONAL_INFO.resumePdfUrl}
-              download="Rukia_Juhi_S_Resume.pdf"
+              download="/My-Portfolio/Rukia_Juhi_S_Resume.pdf"
               className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-semibold text-xs sm:text-sm shadow-md transition-all"
             >
               <Download className="w-4 h-4" />

@@ -85,8 +85,8 @@ export const PERSONAL_INFO = {
   location: "Chennai, India",
   linkedin: "https://www.linkedin.com/in/rukia-juhi/",
   github: "https://github.com/Rukia-juhi",
-  resumePdfUrl: "/Rukia_Juhi_S_Resume.pdf",
-  profilePhotoUrl: "/profile.jpg",
+  resumePdfUrl: "/My-Portfolio/Rukia_Juhi_S_Resume.pdf",
+  profilePhotoUrl: "/My-Portfolio/profile.jpg",
   cgpa: "9.70 / 10",
 };
 
@@ -205,7 +205,7 @@ export const EXPERIENCES: ExperienceItem[] = [
       "Practical implementation and validation of machine learning workflows",
     ],
     technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Machine Learning"],
-    certificateUrl: "/certificates/gradtwin-internship.pdf",
+    certificateUrl: "/My-Portfolio/certificates/gradtwin-internship.pdf",
   },
   {
     id: "marcello",
@@ -221,7 +221,7 @@ export const EXPERIENCES: ExperienceItem[] = [
       "Collaborative version control and deployment workflow exposure",
     ],
     technologies: ["JavaScript", "HTML", "CSS", "Flask", "REST APIs"],
-    certificateUrl: "/certificates/marcello-web-dev.pdf",
+    certificateUrl: "/My-Portfolio/certificates/marcello-web-dev.pdf",
   },
 ];
 
@@ -352,7 +352,7 @@ export const ACHIEVEMENTS: Achievement[] = [
     badgeText: "24h Hackathon",
     description:
       "Participated in the 24-hour National Level Hackathon organized by the Department of Intelligent Systems and Cybersecurity at HITS, collaborating to prototype and present a technical software solution.",
-    certificateUrl: "/certificates/intellithon-25.pdf",
+    certificateUrl: "/My-Portfolio/certificates/intellithon-25.pdf",
   },
   {
     id: "iaspire",
@@ -362,7 +362,7 @@ export const ACHIEVEMENTS: Achievement[] = [
     badgeText: "Gold Level Achiever",
     description:
       "Successfully unlocked Gold level during the Go for Gold contest in iAspire, demonstrating technical aptitude, creative problem-solving, and competitive execution.",
-    certificateUrl: "/certificates/iaspire-gold.pdf",
+    certificateUrl: "/My-Portfolio/certificates/iaspire-gold.pdf",
   },
 ];
 
@@ -390,7 +390,7 @@ export const CERTIFICATIONS: Certification[] = [
     category: "Databases & Languages",
     dateAwarded: "23 Oct, 2025",
     credentialId: "202CB697FF53",
-    pdfUrl: "/certificates/hackerrank-sql.pdf",
+    pdfUrl: "/My-Portfolio/certificates/hackerrank-sql.pdf",
   },
   {
     id: "mongodb-basics",
@@ -399,7 +399,7 @@ export const CERTIFICATIONS: Certification[] = [
     category: "Databases & Languages",
     dateAwarded: "06-21-2025",
     credentialId: "MDBtksqo47sop",
-    pdfUrl: "/certificates/mongodb-basics.pdf",
+    pdfUrl: "/My-Portfolio/certificates/mongodb-basics.pdf",
   },
   {
     id: "deloitte-data-analytics",
@@ -407,7 +407,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Deloitte (via Forage)",
     category: "Data Analytics & Forensics",
     dateAwarded: "December 21st, 2025",
-    pdfUrl: "/certificates/deloitte-data-analytics.pdf",
+    pdfUrl: "/My-Portfolio/certificates/deloitte-data-analytics.pdf",
   },
   {
     id: "coursera-genai",
@@ -416,7 +416,7 @@ export const CERTIFICATIONS: Certification[] = [
     category: "AI & Machine Learning",
     dateAwarded: "Aug 27, 2025",
     credentialId: "0XKR01GKUYSV",
-    pdfUrl: "/certificates/coursera-genai.pdf",
+    pdfUrl: "/My-Portfolio/certificates/coursera-genai.pdf",
   },
   {
     id: "coursera-data-analysis",
@@ -425,7 +425,7 @@ export const CERTIFICATIONS: Certification[] = [
     category: "Data Analytics",
     dateAwarded: "Dec 28, 2025",
     credentialId: "7M483SBFYJ15",
-    pdfUrl: "/certificates/coursera-data-analysis.pdf",
+    pdfUrl: "/My-Portfolio/certificates/coursera-data-analysis.pdf",
   },
   {
     id: "mycaptain-python",
@@ -433,7 +433,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "MyCaptain",
     category: "Programming Foundations",
     dateAwarded: "February 2024",
-    pdfUrl: "/certificates/mycaptain-python.pdf",
+    pdfUrl: "/My-Portfolio/certificates/mycaptain-python.pdf",
   },
   {
     id: "gradtwin-cert",
@@ -441,7 +441,7 @@ export const CERTIFICATIONS: Certification[] = [
     issuer: "Gradtwin Services (OPC) Pvt. Ltd.",
     category: "Internship Credential",
     dateAwarded: "13th October 2025",
-    pdfUrl: "/certificates/gradtwin-internship.pdf",
+    pdfUrl: "/My-Portfolio/certificates/gradtwin-internship.pdf",
   },
   {
     id: "marcello-cert",
@@ -450,7 +450,7 @@ export const CERTIFICATIONS: Certification[] = [
     category: "Internship Credential",
     dateAwarded: "21.10.2024",
     credentialId: "MTINTWD2110296",
-    pdfUrl: "/certificates/marcello-web-dev.pdf",
+    pdfUrl: "/My-Portfolio/certificates/marcello-web-dev.pdf",
   },
 ];
 
