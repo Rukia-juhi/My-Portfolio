@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0c0d12"/>
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="url(#border-grad)" stroke-width="2"/>
+  <defs>
+    <linearGradient id="border-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0" y1="16" x2="64" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f3e8ff"/>
+      <stop offset="0.5" stop-color="#c084fc"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <text x="32" y="42" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="26" fill="url(#text-grad)" text-anchor="middle" letter-spacing="-1">RJ</text>
+</svg>
